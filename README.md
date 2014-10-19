@@ -1,4 +1,4 @@
 DataScienceCoursera
 ===================
 
-Course related papers, R scripts etc
+Course related papers, R scripts etc. 
